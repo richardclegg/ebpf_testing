@@ -23,7 +23,9 @@ I found it useful to clone:
 git@github.com:iovisor/bcc.git
 To get example code to look at.
 
-Also note that programs like opensnoop-bpfcc give a warning (yet still run). 
+Also note that on Ubuntu 22.04 programs like opensnoop-bpfcc give a warning (yet still run). 
+https://github.com/iovisor/bcc/issues/3366
+
 
 
 
