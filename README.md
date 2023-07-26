@@ -10,8 +10,11 @@ https://www.brendangregg.com/blog/2019-01-01/learn-ebpf-tracing.html
 
 In recent versions of Ubuntu at least package names and command names have been changing around. In 22.04 I needed
 
+```
 # sudo apt install bpfcc-tools 
 # sudo apt install perf-tools-unstable
+# sudo apt install linux-tools-generic
+```
 
 Also for some reason opensnoop (referred to by a lot of tutorials) is known as opensnoop-perf. I understand that in other versions of ubuntu opensnoop-perf is a separate package.
 
