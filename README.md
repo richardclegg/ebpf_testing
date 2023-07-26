@@ -4,4 +4,10 @@ A good way to start (far better than this trivial intro) is the lab here: ']
 
 https://play.instruqt.com/embed/isovalent/tracks/ebpf-getting-started?token=em_9nxLzhlV41gb3rKM&show_challenges=true
 
+or the resources here
+
+https://www.brendangregg.com/blog/2019-01-01/learn-ebpf-tracing.html
+
+
+
 
