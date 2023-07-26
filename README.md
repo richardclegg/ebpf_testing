@@ -12,16 +12,18 @@ In recent versions of Ubuntu at least package names and command names have been 
 
 ```
 # sudo apt install bpfcc-tools 
-# sudo apt install perf-tools-unstable
 # sudo apt install linux-tools-generic
-# sudo apt install linux-hwe-6.2-tools-common 
+# sudo apt install linux-hwe-6.2-tools-common
+# sudo apt install libbpf-dev
 ```
 
-Also for some reason opensnoop (referred to by a lot of tutorials) is known as opensnoop-perf. I understand that in other versions of ubuntu opensnoop-perf is a separate package.
+Also for some reason opensnoop (referred to by a lot of tutorials) is known as opensnoop-bpfcc. 
 
 I found it useful to clone:
 git@github.com:iovisor/bcc.git
 To get example code to look at.
+
+Also note that programs like opensnoop-bpfcc give a warning (yet still run). 
 
 
 
