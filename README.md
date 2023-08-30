@@ -1,4 +1,4 @@
-These are very basic demo files to investigate eBPF at an extremely simple level.
+These are very basic demo files to investigate eBPF at an extremely simple level. Note -- EBPF is really touchy as to exact versions of software and OS. I am using Ubuntu 22.04 LTS
 
 A good way to start (far better than this trivial intro) is the lab here: ']
 
